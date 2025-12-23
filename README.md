@@ -12,7 +12,8 @@ The pipeline performs two key functions:
 ## Results (Validation)
 The algorithm successfully retrieves the temperature profile (Blue), matching the "True" input atmosphere (Red) within **<1% error** in the core region (10km–40km). It correctly identifies the **Tropopause** at ~11km.
 
-![Validation Plot](results/result.png)
+![Validation Plot](/atmospheric_retrieval/results/result.png)
+
 *(Note: This plot is generated automatically by running the pipeline)*
 
 ---
